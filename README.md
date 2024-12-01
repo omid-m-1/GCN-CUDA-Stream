@@ -1,18 +1,3 @@
-# 2 layer GCN with CUDA Kernel - Assignment 3
-
-## Usage
-
-To train GCN model run: `python main.py --dataset dataset` command. results for `cora, citeseer, pubmed and reddit` datasets are saved in results folder.
- 
-For compiling the kernel, enter the following command in the `deep-codegen` directory:
-```bash
-mkdir build && cd build
-cmake ..
-make -j
-cp graphpy.cpython-38-x86_64-linux-gnu.so ../
-```
-
-
 # 2-Layer GCN with CUDA Kernel Running on the Same Stream as PyTorch Uses - Assignment 5
 
 This repository contains the implementation of a 2-layer Graph Convolutional Network (GCN) using a CUDA kernel. In this assignment, PyTorch and CUDA operations are synchronized to run on the same stream for better performance and efficiency.
