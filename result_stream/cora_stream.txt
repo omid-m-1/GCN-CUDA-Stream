@@ -1,0 +1,31 @@
+CUDA Stream ID: 0x7d24c00
+  NumNodes: 2708
+  NumEdges: 10556
+  NumFeats: 1433
+  NumClasses: 7
+  NumTrainingSamples: 140
+  NumValidationSamples: 500
+  NumTestSamples: 1000
+Done loading data from cached files.
+PyTorch Stream ID: 0x7d24c00
+Epoch [500] - Train Loss: 0.013766 | Train Accuracy: 43.57%
+Epoch [1000] - Train Loss: 0.013367 | Train Accuracy: 57.14%
+Epoch [1500] - Train Loss: 0.012613 | Train Accuracy: 54.29%
+Epoch [2000] - Train Loss: 0.011651 | Train Accuracy: 65.00%
+Epoch [2500] - Train Loss: 0.010381 | Train Accuracy: 72.14%
+Epoch [3000] - Train Loss: 0.0094386 | Train Accuracy: 76.43%
+Epoch [3500] - Train Loss: 0.0085044 | Train Accuracy: 76.43%
+Epoch [4000] - Train Loss: 0.0072407 | Train Accuracy: 75.00%
+Epoch [4500] - Train Loss: 0.0071257 | Train Accuracy: 75.71%
+Epoch [5000] - Train Loss: 0.0060625 | Train Accuracy: 84.29%
+Epoch [5500] - Train Loss: 0.0050856 | Train Accuracy: 80.00%
+Epoch [6000] - Train Loss: 0.0046383 | Train Accuracy: 82.86%
+Epoch [6500] - Train Loss: 0.0044059 | Train Accuracy: 88.57%
+Epoch [7000] - Train Loss: 0.003757 | Train Accuracy: 85.00%
+Epoch [7500] - Train Loss: 0.0036873 | Train Accuracy: 85.71%
+Epoch [8000] - Train Loss: 0.003702 | Train Accuracy: 85.00%
+Epoch [8500] - Train Loss: 0.0030645 | Train Accuracy: 90.71%
+Epoch [9000] - Train Loss: 0.0035498 | Train Accuracy: 87.14%
+Epoch [9500] - Train Loss: 0.0026365 | Train Accuracy: 90.71%
+Epoch [10000] - Train Loss: 0.0022841 | Train Accuracy: 92.14%
+Test Loss: 0.00068 | Test Accuracy: 79.50%
